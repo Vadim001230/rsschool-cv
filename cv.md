@@ -29,6 +29,7 @@ I am 24 years old, I work as a mechanical engineer. I want to connect my life wi
 
 ### Code example:
 
+
 ```
 function testOperation(a, b) {
     var x;
