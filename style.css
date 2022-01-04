@@ -200,7 +200,7 @@ html {
 }
 
 .skills {
-	margin-top: 110px;
+	margin-top: 90px;
 }
 .skills::after {
 	content: "";
@@ -229,7 +229,7 @@ html {
  }
 
 .code {
-	margin-top: 60px;
+	margin-top: 75px;
 }
 
 .code::after {
