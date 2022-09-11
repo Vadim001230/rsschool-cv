@@ -39,7 +39,7 @@ function testOperation(a, b) {
 ```
 
 
-###Education and courses:
+### Education and courses:
 
 1. Web Development For Beginners: HTML and CSS https://stepik.org  ![Certificate](stepik-certificate.jpg)
 2. Self-instruction book HTML, CSS by http://htmlbook.ru/
